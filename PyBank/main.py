@@ -52,7 +52,7 @@ f.write('______________________________\n')
 f.write('Total Months = ' + str(len(date)) + '\n')
 f.write('Total = ' + str(totalamount)+'\n')
 f.write('Average Monthly Change = ' + str(round(avg, 2))+'\n')
-f.write("The Lowest PNL was on " + datemax + ' in the amount of ' + str(pnlmax)+'\n')
+f.write("The Highest PNL was on " + datemax + ' in the amount of ' + str(pnlmax)+'\n')
 f.write("The Lowest PNL was on " + datemin + ' in the amount of ' + str(pnlmin)+'\n')
 
 f.close()
