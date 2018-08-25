@@ -1,0 +1,7 @@
+Financial Analysis
+______________________________
+Total Months = 86
+Total = 38382578.0
+Average Monthly Change = -2288.2
+The Lowest PNL was on Feb-2012 in the amount of 1170593.0
+The Lowest PNL was on Sep-2013 in the amount of -1196225.0
